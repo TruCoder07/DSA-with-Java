@@ -1,0 +1,462 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "ClassPractice",
+            "request": "launch",
+            "mainClass": "ClassPractice",
+            "projectName": "Web Dev_5cb2a6ac"
+        },
+        {
+            "type": "java",
+            "name": "Q5AreaOfCircle",
+            "request": "launch",
+            "mainClass": "Q5AreaOfCircle",
+            "projectName": "Web Dev_5cb2a6ac"
+        },
+        {
+            "type": "java",
+            "name": "Q4",
+            "request": "launch",
+            "mainClass": "Q4",
+            "projectName": "Web Dev_5cb2a6ac"
+        },
+        {
+            "type": "java",
+            "name": "Q3",
+            "request": "launch",
+            "mainClass": "Q3",
+            "projectName": "Web Dev_5cb2a6ac"
+        },
+        {
+            "type": "java",
+            "name": "JavaBasicQ",
+            "request": "launch",
+            "mainClass": "JavaBasicQ",
+            "projectName": "Web Dev_5cb2a6ac"
+        },
+        {
+            "type": "java",
+            "name": "EvenNumbers",
+            "request": "launch",
+            "mainClass": "EvenNumbers",
+            "projectName": "Web Dev_5cb2a6ac"
+        },
+        {
+            "type": "java",
+            "name": "HollowRectangle",
+            "request": "launch",
+            "mainClass": "HollowRectangle",
+            "projectName": "Web Dev_5cb2a6ac"
+        },
+        {
+            "type": "java",
+            "name": "SolidRectangle",
+            "request": "launch",
+            "mainClass": "SolidRectangle",
+            "projectName": "Web Dev_5cb2a6ac"
+        },
+        {
+            "type": "java",
+            "name": "jlc_31_methods",
+            "request": "launch",
+            "mainClass": "jlc_31_methods",
+            "projectName": "Web Dev_5cb2a6ac"
+        },
+        {
+            "type": "java",
+            "name": "JLC_31_Methods",
+            "request": "launch",
+            "mainClass": "JLC_31_Methods",
+            "projectName": "Web Dev_5cb2a6ac"
+        },
+        {
+            "type": "java",
+            "name": "Week",
+            "request": "launch",
+            "mainClass": "Week",
+            "projectName": "Web Dev_5cb2a6ac"
+        },
+        {
+            "type": "java",
+            "name": "TaxSlabs",
+            "request": "launch",
+            "mainClass": "TaxSlabs",
+            "projectName": "Web Dev_5cb2a6ac"
+        },
+        {
+            "type": "java",
+            "name": "ChapterSix",
+            "request": "launch",
+            "mainClass": "ChapterSix",
+            "projectName": "Web Dev_5cb2a6ac"
+        },
+        {
+            "type": "java",
+            "name": "TwoTable",
+            "request": "launch",
+            "mainClass": "TwoTable",
+            "projectName": "Web Dev_5cb2a6ac"
+        },
+        {
+            "type": "java",
+            "name": "OneToTen",
+            "request": "launch",
+            "mainClass": "OneToTen",
+            "projectName": "Web Dev_5cb2a6ac"
+        },
+        {
+            "type": "java",
+            "name": "StringMethod",
+            "request": "launch",
+            "mainClass": "StringMethod",
+            "projectName": "Web Dev_5cb2a6ac"
+        },
+        {
+            "type": "java",
+            "name": "IncrementQuestion",
+            "request": "launch",
+            "mainClass": "IncrementQuestion",
+            "projectName": "Web Dev_5cb2a6ac"
+        },
+        {
+            "type": "java",
+            "name": "InvertHalfPyramidNumber",
+            "request": "launch",
+            "mainClass": "InvertHalfPyramidNumber",
+            "projectName": "Web Dev_5cb2a6ac"
+        },
+        {
+            "type": "java",
+            "name": "InvertedHalfPyramidRotatedBy180",
+            "request": "launch",
+            "mainClass": "InvertedHalfPyramidRotatedBy180",
+            "projectName": "Web Dev_5cb2a6ac"
+        },
+        {
+            "type": "java",
+            "name": "HalfPyramidNumber",
+            "request": "launch",
+            "mainClass": "HalfPyramidNumber",
+            "projectName": "Web Dev_5cb2a6ac"
+        },
+        {
+            "type": "java",
+            "name": "InvertedHalfPyramid",
+            "request": "launch",
+            "mainClass": "InvertedHalfPyramid",
+            "projectName": "Web Dev_5cb2a6ac"
+        },
+        {
+            "type": "java",
+            "name": "HalfPyramid",
+            "request": "launch",
+            "mainClass": "HalfPyramid",
+            "projectName": "Web Dev_5cb2a6ac"
+        },
+        {
+            "type": "java",
+            "name": "HollowRectrangle",
+            "request": "launch",
+            "mainClass": "HollowRectrangle",
+            "projectName": "Web Dev_5cb2a6ac"
+        },
+        {
+            "type": "java",
+            "name": "BestPattQ1M2",
+            "request": "launch",
+            "mainClass": "BestPattQ1M2",
+            "projectName": "Web Dev_5cb2a6ac"
+        },
+        {
+            "type": "java",
+            "name": "BestPattQ1",
+            "request": "launch",
+            "mainClass": "BestPattQ1",
+            "projectName": "Web Dev_5cb2a6ac"
+        },
+        {
+            "type": "java",
+            "name": "PassOrFail",
+            "request": "launch",
+            "mainClass": "PassOrFail",
+            "projectName": "Web Dev_5cb2a6ac"
+        },
+        {
+            "type": "java",
+            "name": "Ifa",
+            "request": "launch",
+            "mainClass": "Ifa",
+            "projectName": "Web Dev_5cb2a6ac"
+        },
+        {
+            "type": "java",
+            "name": "Table",
+            "request": "launch",
+            "mainClass": "Table",
+            "projectName": "Web Dev_5cb2a6ac"
+        },
+        {
+            "type": "java",
+            "name": "AcCh3",
+            "request": "launch",
+            "mainClass": "AcCh3",
+            "projectName": "Web Dev_5cb2a6ac"
+        },
+        {
+            "type": "java",
+            "name": "NuturalNumber",
+            "request": "launch",
+            "mainClass": "NuturalNumber",
+            "projectName": "Web Dev_5cb2a6ac"
+        },
+        {
+            "type": "java",
+            "name": "EscapesSequences",
+            "request": "launch",
+            "mainClass": "EscapesSequences",
+            "projectName": "Web Dev_5cb2a6ac"
+        },
+        {
+            "type": "java",
+            "name": "Spaces",
+            "request": "launch",
+            "mainClass": "Spaces",
+            "projectName": "Web Dev_5cb2a6ac"
+        },
+        {
+            "type": "java",
+            "name": "ReplaceLetters",
+            "request": "launch",
+            "mainClass": "ReplaceLetters",
+            "projectName": "Web Dev_5cb2a6ac"
+        },
+        {
+            "type": "java",
+            "name": "LettersQ1",
+            "request": "launch",
+            "mainClass": "LettersQ1",
+            "projectName": "Web Dev_5cb2a6ac"
+        },
+        {
+            "type": "java",
+            "name": "Underscores",
+            "request": "launch",
+            "mainClass": "Underscores",
+            "projectName": "Web Dev_5cb2a6ac"
+        },
+        {
+            "type": "java",
+            "name": "Lowercase",
+            "request": "launch",
+            "mainClass": "Lowercase",
+            "projectName": "Web Dev_5cb2a6ac"
+        },
+        {
+            "type": "java",
+            "name": "Value",
+            "request": "launch",
+            "mainClass": "Value",
+            "projectName": "Web Dev_5cb2a6ac"
+        },
+        {
+            "type": "java",
+            "name": "Greater",
+            "request": "launch",
+            "mainClass": "Greater",
+            "projectName": "Web Dev_5cb2a6ac"
+        },
+        {
+            "type": "java",
+            "name": "Encrupt",
+            "request": "launch",
+            "mainClass": "Encrupt",
+            "projectName": "Web Dev_5cb2a6ac"
+        },
+        {
+            "type": "java",
+            "name": "Sol",
+            "request": "launch",
+            "mainClass": "Sol",
+            "projectName": "Web Dev_5cb2a6ac"
+        },
+        {
+            "type": "java",
+            "name": "Expr",
+            "request": "launch",
+            "mainClass": "Expr",
+            "projectName": "Web Dev_5cb2a6ac"
+        },
+        {
+            "type": "java",
+            "name": "Solution1",
+            "request": "launch",
+            "mainClass": "Solution1",
+            "projectName": "Web Dev_5cb2a6ac"
+        },
+        {
+            "type": "java",
+            "name": "Solution",
+            "request": "launch",
+            "mainClass": "Solution",
+            "projectName": "Web Dev_5cb2a6ac"
+        },
+        {
+            "type": "java",
+            "name": "AddThreeNumbers",
+            "request": "launch",
+            "mainClass": "AddThreeNumbers",
+            "projectName": "Web Dev_5cb2a6ac"
+        },
+        {
+            "type": "java",
+            "name": "Exp",
+            "request": "launch",
+            "mainClass": "Exp",
+            "projectName": "Web Dev_5cb2a6ac"
+        },
+        {
+            "type": "java",
+            "name": "QQCh2Q1",
+            "request": "launch",
+            "mainClass": "QQCh2Q1",
+            "projectName": "Web Dev_5cb2a6ac"
+        },
+        {
+            "type": "java",
+            "name": "QQ2",
+            "request": "launch",
+            "mainClass": "QQ2",
+            "projectName": "Web Dev_5cb2a6ac"
+        },
+        {
+            "type": "java",
+            "name": "Trys",
+            "request": "launch",
+            "mainClass": "Trys",
+            "projectName": "Web Dev_5cb2a6ac"
+        },
+        {
+            "type": "java",
+            "name": "IntegerOrNot",
+            "request": "launch",
+            "mainClass": "IntegerOrNot",
+            "projectName": "Web Dev_5cb2a6ac"
+        },
+        {
+            "type": "java",
+            "name": "LastDigit",
+            "request": "launch",
+            "mainClass": "LastDigit",
+            "projectName": "Web Dev_5cb2a6ac"
+        },
+        {
+            "type": "java",
+            "name": "KilometersToMiles",
+            "request": "launch",
+            "mainClass": "KilometersToMiles",
+            "projectName": "Web Dev_5cb2a6ac"
+        },
+        {
+            "type": "java",
+            "name": "Greets",
+            "request": "launch",
+            "mainClass": "Greets",
+            "projectName": "Web Dev_5cb2a6ac"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "AreaOfCircle",
+            "request": "launch",
+            "mainClass": "AreaOfCircle",
+            "projectName": "Web Dev_5cb2a6ac"
+        },
+        {
+            "type": "java",
+            "name": "Cgpa",
+            "request": "launch",
+            "mainClass": "Cgpa",
+            "projectName": "Web Dev_5cb2a6ac"
+        },
+        {
+            "type": "java",
+            "name": "Condition",
+            "request": "launch",
+            "mainClass": "Condition",
+            "projectName": "Web Dev_5cb2a6ac"
+        },
+        {
+            "type": "java",
+            "name": "Conditions",
+            "request": "launch",
+            "mainClass": "Conditions",
+            "projectName": "Web Dev_5cb2a6ac"
+        },
+        {
+            "type": "java",
+            "name": "Excersice",
+            "request": "launch",
+            "mainClass": "Excersice",
+            "projectName": "Web Dev_5cb2a6ac"
+        },
+        {
+            "type": "java",
+            "name": "Excersices",
+            "request": "launch",
+            "mainClass": "Excersices",
+            "projectName": "Web Dev_5cb2a6ac"
+        },
+        {
+            "type": "java",
+            "name": "FirstClass",
+            "request": "launch",
+            "mainClass": "FirstClass",
+            "projectName": "Web Dev_5cb2a6ac"
+        },
+        {
+            "type": "java",
+            "name": "MarchSixteen",
+            "request": "launch",
+            "mainClass": "MarchSixteen",
+            "projectName": "Web Dev_5cb2a6ac"
+        },
+        {
+            "type": "java",
+            "name": "Month",
+            "request": "launch",
+            "mainClass": "Month",
+            "projectName": "Web Dev_5cb2a6ac"
+        },
+        {
+            "type": "java",
+            "name": "Switch",
+            "request": "launch",
+            "mainClass": "Switch",
+            "projectName": "Web Dev_5cb2a6ac"
+        },
+        {
+            "type": "java",
+            "name": "Tufail",
+            "request": "launch",
+            "mainClass": "Tufail",
+            "projectName": "Web Dev_5cb2a6ac"
+        },
+        {
+            "type": "java",
+            "name": "Two",
+            "request": "launch",
+            "mainClass": "Two",
+            "projectName": "Web Dev_5cb2a6ac"
+        }
+    ]
+}
